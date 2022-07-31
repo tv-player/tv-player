@@ -1,5 +1,5 @@
-## TvBox源
+## tv-player
 
-- 每天定时更新
+#### TvBox源(每天定时更新)
 
 [点击查看](https://github.com/tv-player/box-source)
