@@ -2,6 +2,6 @@
 
 ## [在线影院](https://tv.okeybox.top/)
 
-### TvBox源 (每天定时更新,适用于 TvBox, maoTv, Pluto Player)
+### TvBox源 (每天定时更新,适用于 TvBox, maoTv。魔改版本多尝试几个配置)
 
 [点击查看](https://github.com/tv-player/box-source)
