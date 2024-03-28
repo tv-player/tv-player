@@ -8,6 +8,3 @@ TV 影视APP:https://github.com/tv-player/apks
 
 [TG频道](https://t.me/tvplayerBox) [TG群](https://t.me/+uGeB94WVkgJlZjI1)
 
-## 猫影视资源配置
-支持 ios、android
-https://github.com/tv-player/cat
